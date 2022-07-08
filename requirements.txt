@@ -7,11 +7,11 @@ graphviz==0.7.1
 h5py==2.7.0
 jsonpickle==0.9.4
 keras==2.0.8
-numpy==1.13.1
+numpy==1.22.2
 pandoc==1.0.0b2
 redis==2.10.5
 six==1.10.0
-tensorflow==1.1.0
+tensorflow==2.6.4
 typing==3.6.2
 networkx==1.11
 pymessenger==0.0.7.0
